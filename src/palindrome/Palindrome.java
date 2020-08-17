@@ -7,7 +7,7 @@ package palindrome;
 
 /**
  *
- * @author Guntur
+ * @author Guntur Wicaksono
  */
 import java.util.Scanner;
 public class Palindrome {
